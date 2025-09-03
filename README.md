@@ -64,19 +64,13 @@ END
 
 #### Manual Calculations
 
-![add](https://github.com/user-attachments/assets/cf32383d-eed2-415c-bd88-4ee5508ad14d)
-
-
+<img width="600" height="600" alt="Screenshot 2025-09-03 000224" src="https://github.com/user-attachments/assets/cf32383d-eed2-415c-bd88-4ee5508ad14d" />
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+
 <img width="636" height="435" alt="Screenshot 2025-09-03 000224" src="https://github.com/user-attachments/assets/3c6cf235-ffa3-4838-9079-9ff3eee057f1" />
 
-
-
 <img width="634" height="426" alt="image" src="https://github.com/user-attachments/assets/b8383a98-c376-4a83-80cd-41af9309a70e" />
-
-
-
 
 ## 2. SUBTRACTION
 
@@ -91,7 +85,6 @@ END
 ## FLOWCHART
 
 <img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
-
 
 #### Program
 
@@ -126,18 +119,13 @@ END
 
 #### Manual Calculations
 
-
-![sub](https://github.com/user-attachments/assets/eeadcb68-b587-4d0d-88ab-196374dbcef7)
-
-
+<img width="600" height="600" alt="Screenshot 2025-09-03 000254" src="https://github.com/user-attachments/assets/eeadcb68-b587-4d0d-88ab-196374dbcef7" />
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="642" height="435" alt="sub" src="https://github.com/user-attachments/assets/478abf1c-629a-49a6-9681-deee45117a17" />
+
 <img width="644" height="431" alt="Screenshot 2025-09-03 000254" src="https://github.com/user-attachments/assets/df5faece-6e38-4b07-95b0-aa4954b571b6" />
-
-
-
-<img width="642" height="435" alt="image" src="https://github.com/user-attachments/assets/95fbf739-8800-491e-b34b-92a29fb20b00" />
-
 
 
 ## 3. MULTIPLICATION
@@ -152,8 +140,6 @@ END
 ##FLOWCHART
 
 <img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
-
-
 
 #### Program
 
@@ -184,16 +170,14 @@ END
 |       1203: 34          |        1207: 0A          |
 
 #### Manual Calculations
-![mul](https://github.com/user-attachments/assets/163f968d-1f20-45ad-9ad5-520b197a7454)
 
+<img width="600" height="600" alt="Screenshot 2025-09-03 000327" src="https://github.com/user-attachments/assets/163f968d-1f20-45ad-9ad5-520b197a7454" />
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 <img width="637" height="431" alt="Screenshot 2025-09-03 000327" src="https://github.com/user-attachments/assets/83383a2c-b7e7-4c3c-9d8c-d04460a4e9c6" />
 
-
 <img width="641" height="431" alt="Screenshot 2025-08-20 160319" src="<img width="639" height="425" alt="image" src="https://github.com/user-attachments/assets/9ae10c97-edbc-406b-b257-c76dd621d860" />
-
 
 
 ## 4. DIVISION
@@ -205,8 +189,8 @@ END
 3. Store result.
 
    ## FLOWCHART
+   
 <img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
-
 
 #### Program
 
@@ -237,21 +221,13 @@ END
 |       1203: 34          |        1207: 00          |
 
 #### Manual Calculations
-
-![div](https://github.com/user-attachments/assets/ce61a799-d563-4b4b-b163-785ca06a4bc3)
-
-
+<img width="643" height="434" alt="Screenshot 2025-09-03 000353" src="https://github.com/user-attachments/assets/ce61a799-d563-4b4b-b163-785ca06a4bc3" />
 
 ## OUTPUT FROM MASM SOFTWARE
-
-
 
 <img width="643" height="434" alt="Screenshot 2025-09-03 000353" src="https://github.com/user-attachments/assets/6a7d4e3d-d676-4479-b230-805d342c77d5" />
 
 <img width="641" height="437" alt="image" src="https://github.com/user-attachments/assets/fb79874b-848d-48d2-9119-2bcd29ec19db" />
-
-
-
 
 ## RESULT
 
